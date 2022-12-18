@@ -1,4 +1,8 @@
 # AI Art
+> **Note**
+  This plugin has been migrated to
+  [dataiku/dss-plugin-ai-art](https://github.com/dataiku/dss-plugin-ai-art).
+
 > **Warning**
   This plugin is still under development, and all features are
   subject-to-change. It should not be used in production.
